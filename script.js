@@ -147,8 +147,8 @@ const productVersions = {
                 name: "Android", 
                 desc: "Выберите версию",
                 versions: [
-                    { name: "v1.1 (стабильная)", url: "https://github.com/devovv/FusionTools-Browser-Android/releases/download/FusionToolsBrowserAndroid1.1/FusionToolsBrowser.apk" },
-                    { name: "v1.0", url: "https://github.com/devovv/FusionTools-Browser-Android/releases/download/v1.0/FusionToolsBrowser.apk" }
+                    { name: "v1.1 (стабильная)", url: "https://github.com/devovv/FusionTools-Browser-Android/releases/download/FusionToolsBrowserAndroid1.1/FusionToolsBrowser.apk" }
+                    { name: "v1.0", url: "https://github.com/devovv/FusionTools-Browser-Android/releases/download/FusionToolsBrowserAndroid1.0/FusionToolsBrowser.apk" }
                 ]
             },
             { 
