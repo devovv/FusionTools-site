@@ -116,7 +116,7 @@ const latestVersions = {
     },
     browser: {
         title: "FusionTools Browser",
-        url: "https://github.com/devovv/FusionTools-Browser-Android/releases/download/FusionToolsBrowserAndroid2.7/FusionToolsBrowser.apk"
+        url: "https://github.com/devovv/FusionTools-Browser-Android/releases/download/FusionToolsBrowserAndroid2.9/FusionToolsBrowser.apk"
     }
 };
 
@@ -233,7 +233,7 @@ function consoleGreeting() {
     console.log('%cВсе инструменты бесплатны и с открытым исходным кодом', 'color: #888; font-size: 12px;');
     console.log('%c📦 FusionTools Store: последняя версия v1.7', 'color: #ff6b9d; font-size: 12px;');
     console.log('%c🌍 FusionTools Translate: последняя версия v1.1', 'color: #ff6b9d; font-size: 12px;');
-    console.log('%c🌐 FusionTools Browser: последняя версия v2.7', 'color: #ff6b9d; font-size: 12px;');
+    console.log('%c🌐 FusionTools Browser: последняя версия v2.9', 'color: #ff6b9d; font-size: 12px;');
 }
 
 // Инициализация
